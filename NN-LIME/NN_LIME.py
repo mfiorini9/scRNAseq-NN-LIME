@@ -24,10 +24,10 @@
 ## Before proceeding with the analysis, be sure to define the following variables:
 
 # Path to the working directory. The outputs from this script will be placed there.
-par_out_dir = "/home/fiorini9/scratch/ML_github_test/"
+par_out_dir = "/path/to/output/directory/"
 
 # Path to AnnData Scanpy object.
-par_ann_data = "/home/fiorini9/scratch/machine_learning/base_seurat_objects/Pineda_ALS_B9.h5ad" 
+par_ann_data = "/path/to/anndata/object.h5ad" 
 
 # Meta data column name that contains the cell type annotations.
 par_cell_type_column = "Cell_Type"
@@ -42,7 +42,7 @@ par_treatment_disease_column = "Disease_Status"
 par_control = "ctrl"
 
 # Case group label described in the treatment/disease status column. 
-par_case = "ALS"
+par_case = "PD"
 
 # Meta data column name that contains the IDs of the individual subjects.
 par_subject_ID = "Sample_ID"
