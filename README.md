@@ -17,7 +17,7 @@ Supervised machine learning (ML) models can be implemented to classify samples b
 We have assembled a python script for users that wish to apply this framework to their own analyses. To access this code, please see the [NN-LIME](https://github.com/mfiorini9/scRNAseq-NN-LIME/tree/main/NN-LIME) folder in this repository.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/neurobioinfo/segpy/blob/main/LICENSE) file for details
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mfiorini9/scRNAseq-NN-LIME/blob/main/LICENSE) file for details.
 
 ## Acknowledgement
 scRNAseq-NN-LIME was produced by Michael Fiorini with associate of Jialun Li, Edward Fon, Sali Farhan, and Rhalena Thomas. 
