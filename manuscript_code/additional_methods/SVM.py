@@ -1,4 +1,4 @@
-## This script was used for logistic regression. 
+## This script was used for SVM. 
 
 salloc -A def-sfarhan --time=0-5 -c 1 --mem=100g
 
